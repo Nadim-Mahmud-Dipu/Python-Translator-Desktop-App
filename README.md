@@ -11,3 +11,4 @@ It then displys the translated text to the user.
 
 </ol>
 
+![](images/Capture.PNG)
